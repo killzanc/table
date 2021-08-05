@@ -1,0 +1,16 @@
+.box{
+    width: 100%;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+}
+.table__title{
+ border-collapse: collapse;
+}
+th,td{
+    border: 1px solid black;
+    padding: 8px 20px;
+    text-align: center;
+}
